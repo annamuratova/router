@@ -1,0 +1,13 @@
+
+
+.main{
+    display: flex;
+}
+.main_content{
+     width: calc(100%-280px); 
+    padding: 10px;
+}
+.sidebarWrap{
+    border-right:2px solid ;
+    padding: 10px;
+}
